@@ -5,7 +5,7 @@ I decided to try to keep this project within a 4-5 hours and was successful. Bas
 
 This MVP was all about just that, figuring out how to make me want to take breaks. Design something for yourself and the nerd in me will want to use it! Mock up done in photoshop and created in ember with sublime text 3 and the start kit below.
 
-*Feel free to make this project your own, set a different pick for a timer based on you, and set an different amount of time too. Fork and enjoy.
+*Feel free to make this project your own, set a different picture for a timer based on you, and set an different amount of time too. Fork and enjoy.
 
 
 starter-kit
