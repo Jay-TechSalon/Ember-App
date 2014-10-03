@@ -1,7 +1,9 @@
 First Try with Ember
 ===========
 
-I decided to try to keep this project within a 4-5 hours and was successful. Basic idea came from a count up timer in the ember 101 video series, that sparked an idea to make this into a count down timer that would last for 3 minutes. Why three minutes, while coding we all need to take breaks and just standing and grabbing a glass of water and a bit of stretching can be accomplised in 3 minutes. This MVP was all about just that, figuring out taking breaks. Design mock up in photoshop and created in ember with sublime text 3. 
+I decided to try to keep this project within a 4-5 hours and was successful. Basic idea came from a count up timer in the ember 101 video series, that sparked an idea to make this into a count down timer that would last for 3 minutes. Why three minutes, while coding we all need to take breaks, just standing and grabbing a glass of water, plus a bit of stretching can be accomplised in 3 minutes. 
+
+This MVP was all about just that, figuring out how to make me want to take breaks. Design something for yourself and the nerd in me will want to use it! Mock up done in photoshop and created in ember with sublime text 3 and the start kit below.
 
 *Feel free to make this project your own, set a different pick for a timer based on you, and set an different amount of time too. Fork and enjoy.
 
