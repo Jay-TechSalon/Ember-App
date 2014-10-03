@@ -1,0 +1,60 @@
+/* Put your CSS here */
+body {
+  width: 30rem;
+  height: 100%;
+}
+
+.bkg-img {
+  background: url(../computer-blur.jpg) fixed center center no-repeat;
+  margin: 0 auto;
+}
+
+.big-timer {
+  margin-top: 3.5rem;
+  margin-bottom: 6rem;
+  font-size: 14rem;
+  color: white;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+}
+
+.name-style {
+  margin-top: 6.5rem;
+  color: #999;
+  text-align: center;
+  font-size: 3.2rem;
+  text-transform: uppercase;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+.btn-style {
+  text-transform: uppercase;
+  background-color: transparent;
+  border: 4px solid white;
+  border-radius: 5px;
+  padding: .7rem 0;
+}
+
+.center-align {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: white;
+  padding: 1rem 5rem;
+}
+
+a:hover {
+  color: #999;
+  transition: all .50s ease;
+}
+
+
+
+
+
