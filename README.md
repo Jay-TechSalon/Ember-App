@@ -1,4 +1,4 @@
-First Try with Ember
+Take a Break - First Try with Ember 
 ===========
 
 I decided to try to keep this project within a 4-5 hours and was successful. Basic idea came from a count up timer in the ember 101 video series, that sparked an idea to make this into a count down timer that would last for 3 minutes. Why three minutes, while coding we all need to take breaks, just standing and grabbing a glass of water, plus a bit of stretching can be accomplised in 3 minutes. 
